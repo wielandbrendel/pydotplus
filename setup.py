@@ -53,7 +53,7 @@ def find_requirements(requirements):
 
 
 setup(
-    name='pydotplus',
+    name='pydot',
     version=find_version('lib/pydotplus/version.py'),
     package_dir={'': 'lib'},
     packages=find_packages('lib'),
